@@ -1,0 +1,11 @@
+ouvrir cmd.exe
+*tapez diskpart puis faite entrée
+*list disk puis faite entrée
+*select disk x puis faite entrée
+*clean puis faite entrée
+*create partition primary  puis faite entrée
+*format fs=fat32 quick   puis faite entrée
+*active  puis faite entrée
+*assign  puis faite entrée
+* copier le systéme d'exploitation de son choix coller
+*terminer
